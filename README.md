@@ -1,4 +1,3 @@
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my GitHub page!<br>
@@ -17,11 +16,12 @@ I'm <b>Mahmoud Motie</b>, a passionate <b>Front-End Developer</b> and a learner 
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
-  <p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mahmmoudmotie/your-repo-name&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+<h3>👁️‍🗨️ Profile Views</h3>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-motie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-  </p>
 <h3>🚀 Projects I'm working on</h3>
 <p>Coming soon! Stay tuned for cool front-end and web development projects 🚧</p>
 
@@ -34,4 +34,5 @@ I'm <b>Mahmoud Motie</b>, a passionate <b>Front-End Developer</b> and a learner 
 ---
 
 <p align="center">Thanks for visiting my profile! 🙏</p>
+
 
