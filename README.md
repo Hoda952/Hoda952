@@ -17,7 +17,11 @@ I'm <b>Mahmoud Motie</b>, a passionate <b>Front-End Developer</b> and a learner 
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
+  <p>
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mahmmoudmotie/your-repo-name&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+
+  </p>
 <h3>🚀 Projects I'm working on</h3>
 <p>Coming soon! Stay tuned for cool front-end and web development projects 🚧</p>
 
